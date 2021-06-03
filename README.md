@@ -50,4 +50,4 @@ I know right?
 
 ## Contributing
 
-You don't.
+You don't. Unless you fork it and your name is Barry :)
